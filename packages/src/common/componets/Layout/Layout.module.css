@@ -1,0 +1,11 @@
+.layout {
+  display: flex;
+  flex-direction: row;
+  flex: 1 0 auto;
+  background: #fff;
+  padding: 16px;
+  border-radius: 16px;
+  border: 1px solid #eeecec;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+  min-height: calc(100vh - 64px - 32px - 2px);
+}

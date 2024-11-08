@@ -13,7 +13,7 @@ export const Card = ({ data, onClick }) => (
       <Button
         color="primary"
         variant="outlined"
-        onClick={() => onClick(data.id)}
+        onClick={() => onClick(data.albumId)} // TODO: this is weird. We need album info, not the picture info
       >
         More
       </Button>

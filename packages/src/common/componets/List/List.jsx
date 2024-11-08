@@ -17,7 +17,7 @@ export const List = ({ data, onClickItem }) => {
           ]}
         >
           <ListAntd.Item.Meta
-            title={<a href="https://ant.design">{item.title}</a>}
+            title={<a onClick={() => onClickItem?.(item?.id)}>{item.title}</a>}
             description="Ant Design, a design language for background applications, is refined by Ant UED Team"
           />
         </ListAntd.Item>

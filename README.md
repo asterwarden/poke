@@ -1,3 +1,5 @@
+# React + Vite
+=======
 <img width="916" alt="image" src="https://github.com/user-attachments/assets/03cfac14-f8a7-4fea-a38f-6745c9f0ba5a"># Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -163,7 +165,3 @@ url( string): Конечная точка API, из которой извлек�
 Примечания
 Зависимость: Хук использует собственный API Fetch.
 <img width="539" alt="image" src="https://github.com/user-attachments/assets/49529cf1-6103-4ef4-983c-f2260e58bdd8">
-
-
-
-
